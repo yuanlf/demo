@@ -1,0 +1,6 @@
+{
+  "component": {
+    "destination": "./components",
+    "generateEnv": true
+  }
+}

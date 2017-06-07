@@ -1,0 +1,10 @@
+{
+  "presets": [
+    ["es2015", { "modules": false }], // webpack 2 中需要这样配置禁用
+    "stage-0",
+    "react"
+  ],
+  "plugins": [
+    // "react-hot-loader/babel"
+  ]
+}

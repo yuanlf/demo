@@ -4,7 +4,7 @@ import './index.less'
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 
-export default class {{componentName}} extends Component {
+export default class Grid extends Component {
   constructor(...args) {
     super(...args)
     this.state = {
@@ -19,7 +19,7 @@ export default class {{componentName}} extends Component {
   render() {
     return (
       <div>
-        hello {{componentName}}
+        hello Grid
       </div>
     )
   }
